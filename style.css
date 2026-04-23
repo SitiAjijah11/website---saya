@@ -1,0 +1,48 @@
+/* Reset dasar */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Layout utama */
+main {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Konten utama */
+article {
+  flex: 2;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+/* Sidebar */
+aside {
+  flex: 1;
+  background-color: #ddd;
+  padding: 20px;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Gambar */
+img {
+  width: 100%;
+  border-radius: 10px;
+}
